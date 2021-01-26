@@ -1,0 +1,4 @@
+> Cloud9 Application we can launch and link all the required file from s3
+
+> check  Cradentials in aws using >> ec2-user:~/environment $ cat ~/.aws/credentials  ##this will update in every 5 min. & we should not touch this file.
+
