@@ -1,4 +1,10 @@
 > Cloud9 Application we can launch and link all the required file from s3
 
-> check  Cradentials in aws using >> ec2-user:~/environment $ cat ~/.aws/credentials  ##this will update in every 5 min. & we should not touch this file.
+> check  Tempoeary Cradentials in aws using >> ec2-user:~/environment $ cat ~/.aws/credentials  ##this will update in every 5 min. & we should not touch this file.
+
+> If you don't want to use temporary credentials then Go to >Cloud9>preferences> AWS Settings > turn off = AWS mananged temparary credentails ...
+
+> manual u can create new credentials >> by using >> aws configure
+
+>
 
